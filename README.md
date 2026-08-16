@@ -115,15 +115,6 @@ An open-source library focused on **functional programming for JavaScript and Ty
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=levi5&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levi5&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 📈 GitHub Streak
 
 <p align="center">
