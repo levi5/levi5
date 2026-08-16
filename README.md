@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Levi Prudêncio Araújo Neto
+# 👋 Hi, I'm Levi Prudêncio
 
 ### Front-End & Back-End Developer
 
