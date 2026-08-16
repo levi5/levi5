@@ -138,8 +138,6 @@ An open-source library focused on **functional programming for JavaScript and Ty
 * ⚛️ React Ecosystem
 * 🔷 Advanced TypeScript
 * 🧠 Software Engineering
-* ☁️ Cloud & Infrastructure
-* 🤖 Artificial Intelligence
 * 🚀 Performance & Scalability
 * 📦 Open Source Development
 
