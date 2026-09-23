@@ -8,6 +8,9 @@ I work across the entire development stack, from building reusable interfaces an
 
 ---
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/levi5)
+
+
 ## 🚀 About Me
 
 * 💻 Front-end development with **React, TypeScript, and JavaScript**
